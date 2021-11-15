@@ -1,0 +1,18 @@
+site_name: dcit.wiki
+theme:
+  custom_dir: !ENV [THEME_DIR, "."]
+  name: material
+  palette:
+    - scheme: default
+      primary: light blue
+      toggle:
+        icon: weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: weather-night
+        name: Switch to light mode
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+

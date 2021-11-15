@@ -1,0 +1,7 @@
+# resouce file filter
+!/docs/resource/*.pdf
+!/docs/resource/*.crt
+/docs/resource/
+
+#
+/site/
