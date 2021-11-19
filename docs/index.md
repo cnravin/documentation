@@ -1,4 +1,4 @@
-# Welcom to DCIT Helper Docs(Bata)
+# Welcom to DCIT Helper Docs(Beta)
 
 功能逐步完善中，可通过右上角搜索关键字查询相关页面。
 
