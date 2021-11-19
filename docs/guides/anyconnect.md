@@ -4,22 +4,24 @@
 
 - [`anyconnect-win-4.8.03052-core-vpn.exe`][win]
 
-## - [Windows ARM版][win-arm]
+## [Windows ARM版][win-arm]
 
 - [`anyconnect-win-arm64-4.8.02042-core-vpn.exe`][win-arm]
 
-## - [Mac OS][mac]
+## [Mac OS][mac]
 
 - [`anyconnect-macos-4.8.03052-core-vpn.dmg`][mac]
 
-## - [iPhone][iphone] 
+## [iPhone][iphone] 
 
-!!!Note 请使用系统相机或微信扫码，跳转AppStore下载安装即可
+!!! info
+
+	请使用系统相机或微信扫码，跳转AppStore下载安装即可
 
 <img src="/images/anyconnect-ios.png
 " alt="anyconnect-ios" style="zoom:50%;" align="middle" />
 
-## - [Android][android]
+## [Android][android]
 
 <img src="/images/anyconnect-android.png
 " alt="anyconnect-android" style="zoom:50%;" align="middle" />

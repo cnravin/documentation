@@ -3,17 +3,14 @@
 
 根据intel官方描述，部分802.11ac的网卡发现并连接到WiFi6(802.11ax) AP广播的SSID上，无法正常使用无线网络，intel推荐以下网卡的用户更新无线网卡驱动以解决问题。
 
-> 注：请先确认网卡型号（可参考末尾附1），再寻找下载驱动文件，22.10.0版本仅包含驱动文件，不含PROSet组件
+!!! warning "注意"
+    注：请先确认网卡型号（可参考末尾附1），再寻找下载驱动文件，22.10.0版本仅包含驱动文件，不含PROSet组件
 
 ### Windows 10 
 
-- > [WiFi_22.10.0_Driver64_Win10.zip][WiFi_22.10.0_Driver64_Win10.zip]
+- 64Bit: [WiFi_22.10.0_Driver64_Win10.zip][WiFi_22.10.0_Driver64_Win10.zip]
 
-  其他下载选项：
-
-  - 32位系统驱动
-
-    [WiFi_22.10.0_Driver32_Win10.zip][WiFi_22.10.0_Driver32_Win10.zip]
+- 32Bit: [WiFi_22.10.0_Driver32_Win10.zip][WiFi_22.10.0_Driver32_Win10.zip]
 
   支持的网卡适配器如下：
 
@@ -26,15 +23,11 @@
   Intel® Dual Band Wireless-AC 8260
 ```
 
-  
+-----
 
-- > [WiFi_22.10.0_Driver64_Win10.zip][WiFi_22.10.0_Driver64_Win10.zip]
+- 64Bit: [WiFi_22.10.0_Driver64_Win10.zip][WiFi_22.10.0_Driver64_Win10.zip]
 
-  其他下载选项：
-
-  - 32位系统驱动
-
-    [WiFi_22.10.0_Driver32_Win10.zip][WiFi_22.10.0_Driver32_Win10.zip]
+- 32Bit: [WiFi_22.10.0_Driver32_Win10.zip][WiFi_22.10.0_Driver32_Win10.zip]
 
   支持的网卡适配器型号如下：
 
@@ -44,15 +37,11 @@
   Intel® Dual Band Wireless-AC 3165
 ```
 
-  
+-----
 
-- > [3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe]
+- 64Bit: [3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe]
 
-  其他下载选项：
-
-  - 32位系统驱动
-  
-    [3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe]
+- 32Bit: [3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe]
   
   支持的网卡适配器型号如下：
   
@@ -63,22 +52,17 @@ Intel® Dual Band Wireless-AC 3160
 ```
 
 
-
 ### Windows7
 
-- > [WiFi_21.40.5_PROSet64_Win7.exe][WiFi_21.40.5_PROSet64_Win7.exe]
+- 64Bit: [WiFi_21.40.5_PROSet64_Win7.exe][WiFi_21.40.5_PROSet64_Win7.exe]
 
-  其他下载选项：
+- 32Bit: [WiFi_21.40.5_PROSet32_Win7.exe][WiFi_21.40.5_PROSet32_Win7.exe]
 
-  - 32位系统驱动
+- 仅驱动程序，不含PROSet组件
 
-    [WiFi_21.40.5_PROSet32_Win7.exe][WiFi_21.40.5_PROSet32_Win7.exe]
+    32Bit：[WiFi_21.40.5_Driver32_Win7.zip][WiFi_21.40.5_Driver32_Win7.zip]
 
-  - 仅驱动程序，不含PROSet组件
-
-    x86：[WiFi_21.40.5_Driver32_Win7.zip][WiFi_21.40.5_Driver32_Win7.zip]
-
-    x64：[WiFi_21.40.5_Driver64_Win7.zip][WiFi_21.40.5_Driver64_Win7.zip]
+    64Bit：[WiFi_21.40.5_Driver64_Win7.zip][WiFi_21.40.5_Driver64_Win7.zip]
 
   支持的网卡适配器型号如下：
 
@@ -90,13 +74,11 @@ Intel® Dual Band Wireless-AC 3160
   Intel® Dual Band Wireless-AC 3165
 ```
 
-- > [3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe]
+-----
 
-  其他下载选项：
+- 64Bit: [3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet64_Win.exe]
 
-  - 32位系统驱动
-  
-    [3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe]
+- 32Bit: [3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe][3160-7260-7265C_WiFi_21.10.1_PROSet32_Win.exe]
   
   支持的网卡适配器型号如下：
 
@@ -159,13 +141,9 @@ Intel® Dual Band Wireless-AC 3160
 
 ### 附2：
 
-- Intel 关于802.11ac网卡驱动问题说明
+- [Intel 关于802.11ac网卡驱动问题说明](https://www.intel.cn/content/www/cn/zh/support/articles/000054799/network-and-i-o/wireless.html)
 
-  https://www.intel.cn/content/www/cn/zh/support/articles/000054799/network-and-i-o/wireless.html
-
-- intel官方驱动下载链接（请先参考文件支持型号）
-
-  https://downloadcenter.intel.com/zh-cn/download/30056/-IT-PROSet
+- [intel官方驱动下载链接（请先参考文件支持型号）](https://downloadcenter.intel.com/zh-cn/download/30056/-IT-PROSet)
 
 
 
@@ -176,4 +154,4 @@ Intel® Dual Band Wireless-AC 3160
 [WiFi_21.40.5_PROSet32_Win7.exe]:https://it.digitalchina.com/resource/intel-wifi-drivers/WiFi_21.40.5_PROSet32_Win7.exe
 [WiFi_21.40.5_PROSet64_Win7.exe]:https://it.digitalchina.com/resource/intel-wifi-drivers/WiFi_21.40.5_PROSet64_Win7.exe
 [WiFi_22.10.0_Driver32_Win10.zip]:https://it.digitalchina.com/resource/intel-wifi-drivers/WiFi_22.10.0_Driver32_Win10.zip
-[WiFi_22.10.0_Driver64_Win10.zip]:https://it.digitalchina.com/resource/intel-wifi-drivers/WiFi_22.10.0_Driver64_Win10.zip	"."
+[WiFi_22.10.0_Driver64_Win10.zip]:https://it.digitalchina.com/resource/intel-wifi-drivers/WiFi_22.10.0_Driver64_Win10.zip
