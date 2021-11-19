@@ -8,6 +8,9 @@ theme:
   #custom_dir: !ENV [THEME_DIR, "theme"]
   custom_dir: theme
   name: material
+  
+  static_templates:
+    - 404.html
 
   # Don't include MkDocs' JavaScript
   include_search_page: false
