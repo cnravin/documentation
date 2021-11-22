@@ -74,3 +74,5 @@ nav:
     - Network:
       - guides/wireless_setting.md
       - guides/intel_wifi.md
+  - Downlods:
+      - download/index.md

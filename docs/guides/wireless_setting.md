@@ -1,6 +1,7 @@
 # DC_WLAN(2.4GHz)/DC_WLAN(5GHz) 连接配置
 
-注：此配置方法同样适用于DCITS_WLAN(2.4GHz)/DCITS_WLAN(5GHz)/DC_Mobile
+!!! info
+    此配置方法同样适用于**DCITS_WLAN(2.4GHz)**/**DCITS_WLAN(5GHz)**/**DC_Mobile**
 
 ### 创建配置文件
 
