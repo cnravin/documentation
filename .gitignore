@@ -1,5 +1,5 @@
 # resouce file filter
-!/docs/resource/hosts/
+!/docs/resource/hosts/*
 !/docs/resource/*.pdf
 !/docs/resource/*.crt
 /docs/resource/
