@@ -1,0 +1,31 @@
+kbd.button-css {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 75%;
+    padding: 2px 6px;
+    color: #ffffff;
+    background-color: #6699cc;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 0 0 1px #333333;
+            box-shadow: inset 0 0 0 1px #333333;
+}
+kbd.menu-css {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 75%;
+    padding: 2px 4px;
+    color: #333333;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 0 0 1px #333333;
+            box-shadow: inset 0 0 0 1px #333333;
+} 
+kbd.keyboard-css {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 75%;
+    padding: 2px 6px;
+    color: #ffffff;
+    background-color: #333333;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+            box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+} 
+

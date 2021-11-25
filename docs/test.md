@@ -40,4 +40,6 @@ This will create the following structure:
 ```
 
   [installed]: index.md
+-----
 
+test keyboard : {{打开...}} 菜单，或按((CTRL)) + ((Shift)) + ((N))创建文件夹。((CTRL)) + ((S)) 保存 [[保存]]

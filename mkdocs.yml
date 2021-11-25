@@ -1,6 +1,11 @@
 site_name: 神州数码IT帮助文档(Beta)
 #site_url: https://it.digitalchina.com
 
+# Repository
+repo_name: cnravin/documentation
+repo_url: https://github.com/cnravin/documentation
+edit_uri: "edit/main/docs/"
+
 # Copyright
 copyright: Copyright &copy; 2000 - 2021 DigitalChina
 
@@ -45,12 +50,21 @@ theme:
   favicon: assets/favicon.ico
   logo: assets/logo.gif
 
+extra_css:
+  - css/kbd_extra.css
+
 
 # Extensions
 markdown_extensions:
   - admonition
   - meta
   - def_list
+  - kbdextension:
+      brackets_css: button-css
+      enable_braces: true
+      braces_css: menu-css
+      enable_parens: true
+      parens_css: keyboard-css
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -59,6 +73,10 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.mark
   - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: cnravin
+      repo: documentation
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
