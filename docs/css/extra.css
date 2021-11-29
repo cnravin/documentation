@@ -1,0 +1,8 @@
+@font-face {
+  font: 400 1em/1.8 'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', STHeiti, 'Microsoft Sans Serif', 'WenQuanYi Micro Hei', sans-serif
+}
+
+:root {
+  --md-text-font-family: "Microsoft Yahei","PingFang SC","Arial";
+  --md-code-font-family: "SFMono-Regular","Consolas","Menlo","monospace"
+}
