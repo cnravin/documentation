@@ -13,7 +13,6 @@ theme:
   #custom_dir: !ENV [THEME_DIR, "theme"]
   custom_dir: theme
   name: material
-  
   font: false
 
   static_templates:
@@ -89,11 +88,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Guides:
-    - VPN:
-      - guides/anyconnect.md
       - guides/vpn-install.md
-    - Network:
       - guides/wireless_setting.md
-      - guides/intel_wifi.md
   - Downlods:
       - download/index.md
+      - download/anyconnect-download.md
+      - download/intel-wifi-driver.md
