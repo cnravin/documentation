@@ -1,0 +1,13 @@
+
+    Directory: E:\Documents\documentation\docs\resource\intel-wifi-drivers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           2023/4/24    14:30              0 driverlist.txt
+-a---           2020/1/22    19:19        3407435 WiFi_21.40.5_Driver32_Win7.zip
+-a---           2020/1/22    19:19        3645471 WiFi_21.40.5_Driver64_Win7.zip
+-a---           2020/1/22    19:18      151987184 WiFi_21.40.5_PROSet32_Win7.zip
+-a---           2020/1/22    19:18      182154421 WiFi_21.40.5_PROSet64_Win7.zip
+-a---          2020/10/27    21:15        3406857 WiFi_22.10.0_Driver32_Win10.zip
+-a---          2020/10/27    21:15       25288233 WiFi_22.10.0_Driver64_Win10.zip
+

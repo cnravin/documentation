@@ -1,0 +1,12 @@
+
+    Directory: E:\Documents\documentation\docs\resource\vpn
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           2023/4/24    13:07         258885 anyconnect_for_iOS_and_Android.pdf
+-a---           2023/4/19    16:18       44829565 anyconnect-android-5.0.00247-release.apk
+-a---           2020/4/16    23:10       12026169 anyconnect-macos-4.8.03052-core-vpn.dmg
+-a---           2020/4/16    11:32        9182728 anyconnect-win-4.8.03052-core-vpn.exe
+-a---           2020/4/16    11:34        8821496 anyconnect-win-arm64-4.8.03052-core-vpn.exe
+-a---           2023/4/24    14:30              0 filelist.txt
+

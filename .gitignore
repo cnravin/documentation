@@ -1,10 +1,11 @@
 # resouce file filter
-!/docs/resource/hosts/*
-!/docs/resource/*.txt
-!/docs/resource/*.pdf
-!/docs/resource/*.crt
-/docs/resource/
-/docs/resource/intel-wifi-drivers/
+
+*.zip
+
+/docs/resource/vpn/*.apk
+/docs/resource/vpn/*.exe
+/docs/resource/vpn/*.dmg
+
 
 #
 /site/
