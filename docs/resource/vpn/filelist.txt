@@ -1,5 +1,4 @@
-
-    Directory: E:\Documents\documentation\docs\resource\vpn
+ln -s anyconnect-android-5.0.00247-release.apk anyconnect-android.apk
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
