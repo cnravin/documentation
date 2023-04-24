@@ -6,7 +6,7 @@
 
 ## [Windows ARM版][win-arm]
 
-- [`anyconnect-win-arm64-4.8.02042-core-vpn.exe`][win-arm]
+- [`anyconnect-win-arm64-4.8.03052-core-vpn.exe`][win-arm]
 
 ## [Mac OS][mac]
 
@@ -27,7 +27,7 @@
 " alt="anyconnect-android" style="zoom:50%;" align="middle" />
 
 [win]: https://it.digitalchina.com/resource/vpn/anyconnect-win-4.8.03052-core-vpn.exe
-[win-arm]: https://it.digitalchina.com/resource/vpn/anyconnect-win-arm64-4.8.02042-core-vpn.exe
+[win-arm]: https://it.digitalchina.com/resource/vpn/anyconnect-win-arm64-4.8.03052-core-vpn.exe
 [mac]: https://it.digitalchina.com/resource/vpn/anyconnect-macos-4.8.03052-core-vpn.dmg
 [iphone]: https://itunes.apple.com/cn/app/cisco-anyconnect/id1135064690?mt=8
 [android]: https://it.digitalchina.com/resource/vpn/anyconnect-android.apk
