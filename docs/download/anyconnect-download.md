@@ -23,7 +23,7 @@
 
 ## [Android][android]
 
-<img src="/images/anyconnect-android.png
+<img src="/images/anyconnect-android-img.png
 " alt="anyconnect-android" style="zoom:50%;" align="middle" />
 
 [win]: https://it.digitalchina.com/resource/vpn/anyconnect-win-4.8.03052-core-vpn.exe

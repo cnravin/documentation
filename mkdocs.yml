@@ -2,12 +2,12 @@ site_name: 神州数码IT帮助文档(Beta)
 #site_url: https://it.digitalchina.com
 
 # Repository
-repo_name: cnravin/documentation
-repo_url: https://github.com/cnravin/documentation
-edit_uri: "edit/main/docs/"
+# repo_name: cnravin/documentation
+# repo_url: https://github.com/cnravin/documentation
+# edit_uri: "edit/main/docs/"
 
 # Copyright
-copyright: Copyright &copy; 2000 - 2021 DigitalChina
+copyright: Copyright &copy; 2000 - 2023 DigitalChina
 
 theme:
   #custom_dir: !ENV [THEME_DIR, "theme"]
